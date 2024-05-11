@@ -14,6 +14,7 @@
 - The sales is between the period of 2011 to 2014
    ![image](https://user-images.githubusercontent.com/103464406/218605670-7fe2f56e-7cc7-433e-9a09-fd0b655195aa.png)
 
+
 ## Dashboards:
 
 ### Sales Analysis Dashboard:
@@ -22,7 +23,7 @@
 - 1 million worth of sales and 119.11K profit was made in 2014.
 - 46% of profit came from product category technology.
 - Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
-    ![image](https://user-images.githubusercontent.com/103464406/218605834-500b9b47-8873-4b4a-94ae-ed86486e3194.png)
+ ![image](https://github.com/MOHAEDKHALED/Superstore-Sales-Dashboard---Powerbi/assets/93328795/756c573c-b87b-4739-b2dc-70e1ac7d4efa)
 - Filter for year 2014, category: technology, Order Priority: Medium
     !![image](https://user-images.githubusercontent.com/103464406/218607224-3a1bf219-c16f-44cb-bb8e-4e7b0ee22838.png)
 
