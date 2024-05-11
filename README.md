@@ -24,22 +24,23 @@
 - 46% of profit came from product category technology.
 - Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
  ![image](https://github.com/MOHAEDKHALED/Superstore-Sales-Dashboard---Powerbi/assets/93328795/756c573c-b87b-4739-b2dc-70e1ac7d4efa)
-- Filter for year 2014, category: technology, Order Priority: Medium
-    !![image](https://user-images.githubusercontent.com/103464406/218607224-3a1bf219-c16f-44cb-bb8e-4e7b0ee22838.png)
+
 
 
 ### Product Analysis Dashboard:
 - This dashboard dive deep into product categories, quantity ordered, product- subcategory
 -  Highest amount of office supplies have been ordered in terms of quantity.
 -  Tables have been sold at an average discount of 28% in 2014
-   ![image](https://user-images.githubusercontent.com/103464406/218607609-fcf817e6-17a1-4b03-af50-00bbe806ad79.png)
-- Filter year: 2014, market: US
-    ![image](https://user-images.githubusercontent.com/103464406/218608118-393e40ea-9f77-46f2-9826-82f7be538d1d.png)
+![2](https://github.com/MOHAEDKHALED/Superstore-Sales-Dashboard---Powerbi/assets/93328795/4f87f3bb-c90d-43d4-8a4a-28727663a349)
+
+
 
 ### Shipping Analysis Dashboard:
 - 53% of the orders have Standard shipping mode and lowest preferred is same day shipping.
 - 41% of Orders with critical order priority have been ordered by firstclass ship mode.
 - 100 % of the orders with low priority have been ordered through standard class.
 - APAC markets have highest shipping cost, followed by EU and US.
-   ![image](https://user-images.githubusercontent.com/103464406/218608777-892f74b8-ee20-4c22-8c2f-953638930e54.png)
+![3](https://github.com/MOHAEDKHALED/Superstore-Sales-Dashboard---Powerbi/assets/93328795/5c26a4aa-3322-4a11-96e7-9ce238671d81)
+
+
 
