@@ -13,8 +13,10 @@
 - Data Source : Superstore dataset from kaggle https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
 - The sales is between the period of 2011 to 2014
    ![image](https://user-images.githubusercontent.com/103464406/218605670-7fe2f56e-7cc7-433e-9a09-fd0b655195aa.png)
-
-
+  
+## Notebook Code:
+- Kaggle Notebook Anaysis The Data And Visualize the Relations and Data
+- https://www.kaggle.com/code/mohamedkhaledidris/superstore-sales-analytics
 ## Dashboards:
 
 ### Sales Analysis Dashboard:
