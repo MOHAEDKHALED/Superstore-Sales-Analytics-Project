@@ -17,6 +17,9 @@
 ## Notebook Code:
 - Kaggle Notebook Anaysis The Data And Visualize the Relations and Data
 - https://www.kaggle.com/code/mohamedkhaledidris/superstore-sales-analytics
+![image](https://github.com/MOHAEDKHALED/Superstore-Sales-Dashboard-Powerbi/assets/93328795/97301895-1b98-4b3f-a0fa-7332905c4dca)
+
+
 ## Dashboards:
 
 ### Sales Analysis Dashboard:
